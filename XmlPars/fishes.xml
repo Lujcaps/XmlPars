@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<fishes>
+    <fish>
+        <name>Tiger Shark</name>
+        <variety>
+            <color>Gray</color>
+            <size>10 ft 8 inches to13 ft 11 inches</size>
+            <habitat>Ocean</habitat>
+            <vores>Omnivores</vores>
+            <phylum>Chordate</phylum>
+        </variety>
+        <diet>
+            <food>Crabs</food>
+            <food>Squid</food>
+            <food>Small Sharks</food>
+            <food>Rays</food>
+            <food>Turtles</food>
+        </diet>
+        <about>
+            <description>It is a large macropredator, with females being capable of attaining a length of over 5 m (16 ft 5 in). Populations are found in many tropical and temperate waters, especially around central Pacific islands.</description>
+        </about>
+        <relative>
+            <family>Carcharhinidae</family>
+        </relative>
+        <bite>
+            <pressure>3,700 psi.</pressure>
+        </bite>
+    </fish>
+
+    <fish>
+        <name>Koi Fish</name>
+        <variety>
+            <color>white, black, red, yellow, blue, and cream</color>
+            <size>12 to 15 inches</size>
+            <habitat>Large fishpond</habitat>
+            <vores>Omnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>Small bugs and insects</food1>
+            <food2>Plants and algae</food2>
+            <food3>Watermelon</food3>
+            <food4>Shrimp</food4>
+            <food5>Pretty much anything</food5>
+        </diet>
+        <about>
+            <description>Koi or more specifically nishikigoi, are colored varieties of the Amur carp that are kept for decorative purposes in outdoor koi ponds or water gardens.</description>
+        </about>
+        <relative>
+            <family>Cyprinidae</family>
+        </relative>
+        <bite>
+            <pressure>700 Newtons.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Orca</name>
+        <variety>
+            <color>Black and White</color>
+            <size>31 feet</size>
+            <habitat>Ocean</habitat>
+            <vores>Carnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>Schooling fish</food1>
+            <food2>Stingrays</food2>
+            <food3>Minke whales</food3>
+            <food4>Seals</food4>
+            <food5>Sharks</food5>
+        </diet>
+        <about>
+            <description>The orca or killer whale (Orcinus orca) is a toothed whale belonging to the oceanic dolphin family, of which it is the largest member. It is the only extant species in the genus Orcinus and is recognizable by its black-and-white patterned body.</description>
+        </about>
+        <relative>
+            <family>Delphinidae</family>
+        </relative>
+        <bite>
+            <pressure>Up to 19,000 psi.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Coral Reef Snake</name>
+        <variety>
+            <color>alternating bands of black with gray, blue, or white rings</color>
+            <size>20-30 inches</size>
+            <habitat>Ocean</habitat>
+            <vores>Carnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>Smaller snakes</food1>
+            <food2>Lizards</food2>
+            <food3>Small Sharks</food3>
+            <food4>Frogs</food4>
+            <food5>Fishes</food5>
+        </diet>
+        <about>
+            <description>Sea snakes, or coral reef snakes, are elapid snakes that inhabit marine environments for most or all of their lives. They belong to two subfamilies, Hydrophiinae and Laticaudinae.</description>
+        </about>
+        <relative>
+            <family>Elapidae</family>
+        </relative>
+        <bite>
+            <pressure>150 per square inch.</pressure>
+        </bite>
+    </fish>
+    
+    <fish>
+        <name>Great White Shark</name>
+        <variety>
+            <color>Gray with a white underbelly</color>
+            <size>15 to 20 Feet</size>
+            <habitat>Ocean</habitat>
+            <vores>Carnivores</vores>
+            <phylum>Chordata</phylum>
+        </variety>
+        <diet>
+            <food1>Sea lions</food1>
+            <food2>Seals</food2>
+            <food3>Rays</food3>
+            <food4>Crustaceans</food4>
+            <food5>Dolphins</food5>
+        </diet>
+        <about>
+            <description>The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or simply great white, is a species of large mackerel shark which can be found in the coastal surface waters of all the major oceans.</description>
+        </about>
+        <relative>
+            <family>Lamnidae</family>
+        </relative>
+        <bite>
+            <pressure>18,216 newtons (4,095 lbf).</pressure>
+        </bite>
+    </fish>
+    
+</fishes>
